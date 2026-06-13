@@ -2,8 +2,7 @@
 
 **Future Interns — Cyber Security Task 2 (2026)**
 
-Prepared by: **Atul** | Roll No: 2023003147
-B.Tech CSE — Cyber Security, GITAM University, Hyderabad
+Prepared by: **Atul**.
 
 ---
 
@@ -114,7 +113,7 @@ analysts when triaging suspected phishing emails:
 
 ## 📄 Report Contents
 
-The full report (`report/Phishing_Detection_Report_Atul_GITAM.docx`) includes:
+The full report (`report/Phishing_Detection_Report_Atul_.docx`) includes:
 
 - Introduction to phishing and attack types
 - Detailed analysis of all 4 samples (indicators, attack explanation, risk classification)
